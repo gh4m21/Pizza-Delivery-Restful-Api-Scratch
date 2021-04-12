@@ -1,0 +1,27 @@
+{
+    "id": "axq1LnuRFv",
+    "email": "gervoos@gmail.com",
+    "shoppingCart": [
+        {
+            "id": "7xm8ZjIz9q",
+            "name": "Coca-cola",
+            "quantity": 2,
+            "priceUnit": 1.99
+        },
+        {
+            "id": "nQOewHTbWh",
+            "name": "Hamburger",
+            "quantity": 1,
+            "priceUnit": 5.99
+        },
+        {
+            "id": "ZJP5nShgTf",
+            "name": "chicken",
+            "quantity": 4,
+            "priceUnit": 4.99
+        }
+    ],
+    "checkout": true,
+    "dateCreation": 1616393794554,
+    "dateModification": 1617906778086
+}
